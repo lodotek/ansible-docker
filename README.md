@@ -10,12 +10,12 @@ It is an [Ansible](http://www.ansible.com/home) role to:
 
 ## Why would you want to use this role?
 
-If you're like me, you probably love Docker. This role provides everything you
+If you're like me, you probably **love** Docker. This role provides everything you
 need to get going with a production ready Docker host.
 
 By the way, if you don't know what Docker is, or are looking to become an expert
 with it then check out
-[Dive into Docker: The Complete Docker Course for Developers](https://diveintodocker.com/?utm_source=ansibledocker&utm_medium=github&utm_campaign=readmetop).
+[Dive into Docker: The Complete Docker Course for Developers](https://diveintodocker.com/).
 
 ## Supported platforms
 
